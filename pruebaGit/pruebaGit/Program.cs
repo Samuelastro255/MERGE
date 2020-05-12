@@ -14,6 +14,8 @@ namespace pruebaGit
             WriteLine("Cambio Samuel #1");
 
             WriteLine("cambios no guardados");
+            WriteLine("Cambio Fabian #2");
+            WriteLine("Cambio Fabian #3");
         }
     }
 }
