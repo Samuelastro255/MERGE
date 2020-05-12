@@ -7,6 +7,9 @@ namespace pruebaGit
         static void Main(string[] args)
         {
             WriteLine("Prueba 1: crear error");
+
+            ReadLine();
+
             WriteLine("Cambio Fabian #1");
         }
     }
