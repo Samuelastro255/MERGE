@@ -8,6 +8,7 @@ namespace pruebaGit
         {
             WriteLine("Prueba 1: crear error");
             WriteLine("Cambio Fabian #1");
+            WriteLine("Cambio Samuel #1");
         }
     }
 }
